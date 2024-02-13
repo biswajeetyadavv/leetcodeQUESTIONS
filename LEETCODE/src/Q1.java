@@ -13,7 +13,7 @@ public class Q1 {
  public int[][] divideArray(int[] nums, int k) {
         int arr[][] = new int[nums.length/3][3];
         int line = 0;
-//        Arrays.sort(nums);
+        Arrays.sort(nums);
         for(int i = 0;i<nums.length;i+=3){
             int first = nums[i];
             int sec = nums[i+1];
