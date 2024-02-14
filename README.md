@@ -1,2 +1,5 @@
 # leetcodeQUESTIONS
-https://leetcode.com/problems/sort-colors/
+leetcode QUEtions and solution in above.
+Q1 = https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/
+Q2 = https://leetcode.com/problems/sort-colors/
+
